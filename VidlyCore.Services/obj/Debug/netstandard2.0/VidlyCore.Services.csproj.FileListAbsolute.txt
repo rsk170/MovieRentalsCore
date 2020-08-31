@@ -1,0 +1,6 @@
+C:\Projects\Vidly (Core)\VidlyCore.Services\obj\Debug\netstandard2.0\VidlyCore.Services.csprojAssemblyReference.cache
+C:\Projects\Vidly (Core)\VidlyCore.Services\obj\Debug\netstandard2.0\VidlyCore.Services.AssemblyInfoInputs.cache
+C:\Projects\Vidly (Core)\VidlyCore.Services\obj\Debug\netstandard2.0\VidlyCore.Services.AssemblyInfo.cs
+C:\Projects\Vidly (Core)\VidlyCore.Services\obj\Debug\netstandard2.0\VidlyCore.Services.csproj.CoreCompileInputs.cache
+C:\Projects\Vidly (Core)\VidlyCore.Services\bin\Debug\netstandard2.0\VidlyCore.Services.deps.json
+C:\Projects\Vidly (Core)\VidlyCore.Services\bin\Debug\netstandard2.0\VidlyCore.Services.dll

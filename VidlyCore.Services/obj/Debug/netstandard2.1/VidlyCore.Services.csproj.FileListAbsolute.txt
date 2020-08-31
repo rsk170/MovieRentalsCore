@@ -1,0 +1,24 @@
+C:\Projects\Vidly (Core)\VidlyCore.Services\bin\Debug\netstandard2.1\VidlyCore.Services.deps.json
+C:\Projects\Vidly (Core)\VidlyCore.Services\bin\Debug\netstandard2.1\VidlyCore.Services.dll
+C:\Projects\Vidly (Core)\VidlyCore.Services\bin\Debug\netstandard2.1\VidlyCore.Services.pdb
+C:\Projects\Vidly (Core)\VidlyCore.Services\bin\Debug\netstandard2.1\VidlyCore.Entities.dll
+C:\Projects\Vidly (Core)\VidlyCore.Services\bin\Debug\netstandard2.1\VidlyCore.Entities.pdb
+C:\Projects\Vidly (Core)\VidlyCore.Services\obj\Debug\netstandard2.1\VidlyCore.Services.csprojAssemblyReference.cache
+C:\Projects\Vidly (Core)\VidlyCore.Services\obj\Debug\netstandard2.1\VidlyCore.Services.AssemblyInfoInputs.cache
+C:\Projects\Vidly (Core)\VidlyCore.Services\obj\Debug\netstandard2.1\VidlyCore.Services.AssemblyInfo.cs
+C:\Projects\Vidly (Core)\VidlyCore.Services\obj\Debug\netstandard2.1\VidlyCore.Services.csproj.CoreCompileInputs.cache
+C:\Projects\Vidly (Core)\VidlyCore.Services\obj\Debug\netstandard2.1\VidlyCore.Services.csproj.CopyComplete
+C:\Projects\Vidly (Core)\VidlyCore.Services\obj\Debug\netstandard2.1\VidlyCore.Services.dll
+C:\Projects\Vidly (Core)\VidlyCore.Services\obj\Debug\netstandard2.1\VidlyCore.Services.pdb
+C:\Projects\VidlyCore\VidlyCore.Services\bin\Debug\netstandard2.1\VidlyCore.Services.deps.json
+C:\Projects\VidlyCore\VidlyCore.Services\bin\Debug\netstandard2.1\VidlyCore.Services.dll
+C:\Projects\VidlyCore\VidlyCore.Services\bin\Debug\netstandard2.1\VidlyCore.Services.pdb
+C:\Projects\VidlyCore\VidlyCore.Services\bin\Debug\netstandard2.1\VidlyCore.Entities.dll
+C:\Projects\VidlyCore\VidlyCore.Services\bin\Debug\netstandard2.1\VidlyCore.Entities.pdb
+C:\Projects\VidlyCore\VidlyCore.Services\obj\Debug\netstandard2.1\VidlyCore.Services.csprojAssemblyReference.cache
+C:\Projects\VidlyCore\VidlyCore.Services\obj\Debug\netstandard2.1\VidlyCore.Services.AssemblyInfoInputs.cache
+C:\Projects\VidlyCore\VidlyCore.Services\obj\Debug\netstandard2.1\VidlyCore.Services.AssemblyInfo.cs
+C:\Projects\VidlyCore\VidlyCore.Services\obj\Debug\netstandard2.1\VidlyCore.Services.csproj.CoreCompileInputs.cache
+C:\Projects\VidlyCore\VidlyCore.Services\obj\Debug\netstandard2.1\VidlyCore.Services.csproj.CopyComplete
+C:\Projects\VidlyCore\VidlyCore.Services\obj\Debug\netstandard2.1\VidlyCore.Services.dll
+C:\Projects\VidlyCore\VidlyCore.Services\obj\Debug\netstandard2.1\VidlyCore.Services.pdb

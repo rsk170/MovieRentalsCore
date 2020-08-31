@@ -1,0 +1,376 @@
+C:\Projects\Vidly (Core)\Vidly (Core)\obj\Debug\netcoreapp3.1\VidlyCore.csprojAssemblyReference.cache
+C:\Projects\Vidly (Core)\Vidly (Core)\obj\Debug\netcoreapp3.1\VidlyCore.AssemblyInfoInputs.cache
+C:\Projects\Vidly (Core)\Vidly (Core)\obj\Debug\netcoreapp3.1\VidlyCore.AssemblyInfo.cs
+C:\Projects\Vidly (Core)\Vidly (Core)\obj\Debug\netcoreapp3.1\VidlyCore.csproj.CoreCompileInputs.cache
+C:\Projects\Vidly (Core)\Vidly (Core)\obj\Debug\netcoreapp3.1\VidlyCore.MvcApplicationPartsAssemblyInfo.cache
+C:\Projects\Vidly (Core)\Vidly (Core)\obj\Debug\netcoreapp3.1\VidlyCore.RazorAssemblyInfo.cache
+C:\Projects\Vidly (Core)\Vidly (Core)\obj\Debug\netcoreapp3.1\VidlyCore.RazorAssemblyInfo.cs
+C:\Projects\Vidly (Core)\Vidly (Core)\obj\Debug\netcoreapp3.1\VidlyCore.MvcApplicationPartsAssemblyInfo.cs
+C:\Projects\Vidly (Core)\Vidly (Core)\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Projects\Vidly (Core)\Vidly (Core)\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Projects\Vidly (Core)\Vidly (Core)\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Projects\Vidly (Core)\Vidly (Core)\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.json
+C:\Projects\Vidly (Core)\Vidly (Core)\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.local.json
+C:\Projects\Vidly (Core)\Vidly (Core)\bin\Debug\netcoreapp3.1\VidlyCore.StaticWebAssets.xml
+C:\Projects\Vidly (Core)\Vidly (Core)\bin\Debug\netcoreapp3.1\VidlyCore.exe
+C:\Projects\Vidly (Core)\Vidly (Core)\bin\Debug\netcoreapp3.1\VidlyCore.deps.json
+C:\Projects\Vidly (Core)\Vidly (Core)\bin\Debug\netcoreapp3.1\VidlyCore.runtimeconfig.json
+C:\Projects\Vidly (Core)\Vidly (Core)\bin\Debug\netcoreapp3.1\VidlyCore.runtimeconfig.dev.json
+C:\Projects\Vidly (Core)\Vidly (Core)\bin\Debug\netcoreapp3.1\VidlyCore.dll
+C:\Projects\Vidly (Core)\Vidly (Core)\bin\Debug\netcoreapp3.1\VidlyCore.pdb
+C:\Projects\Vidly (Core)\Vidly (Core)\bin\Debug\netcoreapp3.1\VidlyCore.Views.dll
+C:\Projects\Vidly (Core)\Vidly (Core)\bin\Debug\netcoreapp3.1\VidlyCore.Views.pdb
+C:\Projects\Vidly (Core)\Vidly (Core)\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Projects\Vidly (Core)\Vidly (Core)\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Projects\Vidly (Core)\Vidly (Core)\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Projects\Vidly (Core)\Vidly (Core)\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Projects\Vidly (Core)\Vidly (Core)\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Projects\Vidly (Core)\Vidly (Core)\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Projects\Vidly (Core)\Vidly (Core)\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Projects\Vidly (Core)\Vidly (Core)\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Projects\Vidly (Core)\Vidly (Core)\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Projects\Vidly (Core)\Vidly (Core)\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Projects\Vidly (Core)\Vidly (Core)\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Projects\Vidly (Core)\Vidly (Core)\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Projects\Vidly (Core)\Vidly (Core)\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Projects\Vidly (Core)\Vidly (Core)\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Projects\Vidly (Core)\Vidly (Core)\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Projects\Vidly (Core)\Vidly (Core)\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Projects\Vidly (Core)\Vidly (Core)\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Projects\Vidly (Core)\Vidly (Core)\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Projects\Vidly (Core)\Vidly (Core)\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Projects\Vidly (Core)\Vidly (Core)\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Projects\Vidly (Core)\Vidly (Core)\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Projects\Vidly (Core)\Vidly (Core)\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Projects\Vidly (Core)\Vidly (Core)\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Projects\Vidly (Core)\Vidly (Core)\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Projects\Vidly (Core)\Vidly (Core)\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Projects\Vidly (Core)\Vidly (Core)\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Projects\Vidly (Core)\Vidly (Core)\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Projects\Vidly (Core)\Vidly (Core)\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Projects\Vidly (Core)\Vidly (Core)\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Projects\Vidly (Core)\Vidly (Core)\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Projects\Vidly (Core)\Vidly (Core)\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Projects\Vidly (Core)\Vidly (Core)\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Projects\Vidly (Core)\Vidly (Core)\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Projects\Vidly (Core)\Vidly (Core)\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Projects\Vidly (Core)\Vidly (Core)\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Projects\Vidly (Core)\Vidly (Core)\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Projects\Vidly (Core)\Vidly (Core)\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Projects\Vidly (Core)\Vidly (Core)\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Projects\Vidly (Core)\Vidly (Core)\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Projects\Vidly (Core)\Vidly (Core)\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Projects\Vidly (Core)\Vidly (Core)\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Projects\Vidly (Core)\Vidly (Core)\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Projects\Vidly (Core)\Vidly (Core)\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Projects\Vidly (Core)\Vidly (Core)\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Projects\Vidly (Core)\Vidly (Core)\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Projects\Vidly (Core)\Vidly (Core)\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Projects\Vidly (Core)\Vidly (Core)\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Projects\Vidly (Core)\Vidly (Core)\bin\Debug\netcoreapp3.1\VidlyCore.Entities.dll
+C:\Projects\Vidly (Core)\Vidly (Core)\bin\Debug\netcoreapp3.1\VidlyCore.Services.dll
+C:\Projects\Vidly (Core)\Vidly (Core)\bin\Debug\netcoreapp3.1\VidlyCore.Entities.pdb
+C:\Projects\Vidly (Core)\Vidly (Core)\bin\Debug\netcoreapp3.1\VidlyCore.Services.pdb
+C:\Projects\Vidly (Core)\Vidly (Core)\obj\Debug\netcoreapp3.1\VidlyCore.TagHelpers.input.cache
+C:\Projects\Vidly (Core)\Vidly (Core)\obj\Debug\netcoreapp3.1\VidlyCore.TagHelpers.output.cache
+C:\Projects\Vidly (Core)\Vidly (Core)\obj\Debug\netcoreapp3.1\VidlyCore.RazorCoreGenerate.cache
+C:\Projects\Vidly (Core)\Vidly (Core)\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Projects\Vidly (Core)\Vidly (Core)\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Projects\Vidly (Core)\Vidly (Core)\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Projects\Vidly (Core)\Vidly (Core)\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Projects\Vidly (Core)\Vidly (Core)\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Projects\Vidly (Core)\Vidly (Core)\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Projects\Vidly (Core)\Vidly (Core)\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Projects\Vidly (Core)\Vidly (Core)\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Projects\Vidly (Core)\Vidly (Core)\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Projects\Vidly (Core)\Vidly (Core)\obj\Debug\netcoreapp3.1\VidlyCore.RazorTargetAssemblyInfo.cache
+C:\Projects\Vidly (Core)\Vidly (Core)\obj\Debug\netcoreapp3.1\VidlyCore.RazorTargetAssemblyInfo.cs
+C:\Projects\Vidly (Core)\Vidly (Core)\obj\Debug\netcoreapp3.1\VidlyCore.Views.pdb
+C:\Projects\Vidly (Core)\Vidly (Core)\obj\Debug\netcoreapp3.1\VidlyCore.csproj.CopyComplete
+C:\Projects\Vidly (Core)\Vidly (Core)\obj\Debug\netcoreapp3.1\staticwebassets\VidlyCore.StaticWebAssets.Manifest.cache
+C:\Projects\Vidly (Core)\Vidly (Core)\obj\Debug\netcoreapp3.1\staticwebassets\VidlyCore.StaticWebAssets.xml
+C:\Projects\Vidly (Core)\Vidly (Core)\obj\Debug\netcoreapp3.1\VidlyCore.dll
+C:\Projects\Vidly (Core)\Vidly (Core)\obj\Debug\netcoreapp3.1\VidlyCore.pdb
+C:\Projects\Vidly (Core)\Vidly (Core)\obj\Debug\netcoreapp3.1\VidlyCore.genruntimeconfig.cache
+C:\Projects\Vidly (Core)\VidlyCore\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Projects\Vidly (Core)\VidlyCore\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Projects\Vidly (Core)\VidlyCore\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Projects\Vidly (Core)\VidlyCore\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.json
+C:\Projects\Vidly (Core)\VidlyCore\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.local.json
+C:\Projects\Vidly (Core)\VidlyCore\bin\Debug\netcoreapp3.1\VidlyCore.StaticWebAssets.xml
+C:\Projects\Vidly (Core)\VidlyCore\bin\Debug\netcoreapp3.1\VidlyCore.exe
+C:\Projects\Vidly (Core)\VidlyCore\bin\Debug\netcoreapp3.1\VidlyCore.deps.json
+C:\Projects\Vidly (Core)\VidlyCore\bin\Debug\netcoreapp3.1\VidlyCore.runtimeconfig.json
+C:\Projects\Vidly (Core)\VidlyCore\bin\Debug\netcoreapp3.1\VidlyCore.runtimeconfig.dev.json
+C:\Projects\Vidly (Core)\VidlyCore\bin\Debug\netcoreapp3.1\VidlyCore.dll
+C:\Projects\Vidly (Core)\VidlyCore\bin\Debug\netcoreapp3.1\VidlyCore.pdb
+C:\Projects\Vidly (Core)\VidlyCore\bin\Debug\netcoreapp3.1\VidlyCore.Views.dll
+C:\Projects\Vidly (Core)\VidlyCore\bin\Debug\netcoreapp3.1\VidlyCore.Views.pdb
+C:\Projects\Vidly (Core)\VidlyCore\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Projects\Vidly (Core)\VidlyCore\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Projects\Vidly (Core)\VidlyCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Projects\Vidly (Core)\VidlyCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Projects\Vidly (Core)\VidlyCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Projects\Vidly (Core)\VidlyCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Projects\Vidly (Core)\VidlyCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Projects\Vidly (Core)\VidlyCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Projects\Vidly (Core)\VidlyCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Projects\Vidly (Core)\VidlyCore\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Projects\Vidly (Core)\VidlyCore\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Projects\Vidly (Core)\VidlyCore\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Projects\Vidly (Core)\VidlyCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Projects\Vidly (Core)\VidlyCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Projects\Vidly (Core)\VidlyCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Projects\Vidly (Core)\VidlyCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Projects\Vidly (Core)\VidlyCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Projects\Vidly (Core)\VidlyCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Projects\Vidly (Core)\VidlyCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Projects\Vidly (Core)\VidlyCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Projects\Vidly (Core)\VidlyCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Projects\Vidly (Core)\VidlyCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Projects\Vidly (Core)\VidlyCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Projects\Vidly (Core)\VidlyCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Projects\Vidly (Core)\VidlyCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Projects\Vidly (Core)\VidlyCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Projects\Vidly (Core)\VidlyCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Projects\Vidly (Core)\VidlyCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Projects\Vidly (Core)\VidlyCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Projects\Vidly (Core)\VidlyCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Projects\Vidly (Core)\VidlyCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Projects\Vidly (Core)\VidlyCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Projects\Vidly (Core)\VidlyCore\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Projects\Vidly (Core)\VidlyCore\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Projects\Vidly (Core)\VidlyCore\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Projects\Vidly (Core)\VidlyCore\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Projects\Vidly (Core)\VidlyCore\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Projects\Vidly (Core)\VidlyCore\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Projects\Vidly (Core)\VidlyCore\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Projects\Vidly (Core)\VidlyCore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Projects\Vidly (Core)\VidlyCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Projects\Vidly (Core)\VidlyCore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Projects\Vidly (Core)\VidlyCore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Projects\Vidly (Core)\VidlyCore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Projects\Vidly (Core)\VidlyCore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Projects\Vidly (Core)\VidlyCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Projects\Vidly (Core)\VidlyCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Projects\Vidly (Core)\VidlyCore\bin\Debug\netcoreapp3.1\VidlyCore.Entities.dll
+C:\Projects\Vidly (Core)\VidlyCore\bin\Debug\netcoreapp3.1\VidlyCore.Services.dll
+C:\Projects\Vidly (Core)\VidlyCore\bin\Debug\netcoreapp3.1\VidlyCore.Entities.pdb
+C:\Projects\Vidly (Core)\VidlyCore\bin\Debug\netcoreapp3.1\VidlyCore.Services.pdb
+C:\Projects\Vidly (Core)\VidlyCore\obj\Debug\netcoreapp3.1\VidlyCore.csprojAssemblyReference.cache
+C:\Projects\Vidly (Core)\VidlyCore\obj\Debug\netcoreapp3.1\VidlyCore.AssemblyInfoInputs.cache
+C:\Projects\Vidly (Core)\VidlyCore\obj\Debug\netcoreapp3.1\VidlyCore.AssemblyInfo.cs
+C:\Projects\Vidly (Core)\VidlyCore\obj\Debug\netcoreapp3.1\VidlyCore.csproj.CoreCompileInputs.cache
+C:\Projects\Vidly (Core)\VidlyCore\obj\Debug\netcoreapp3.1\VidlyCore.MvcApplicationPartsAssemblyInfo.cs
+C:\Projects\Vidly (Core)\VidlyCore\obj\Debug\netcoreapp3.1\VidlyCore.MvcApplicationPartsAssemblyInfo.cache
+C:\Projects\Vidly (Core)\VidlyCore\obj\Debug\netcoreapp3.1\VidlyCore.RazorAssemblyInfo.cache
+C:\Projects\Vidly (Core)\VidlyCore\obj\Debug\netcoreapp3.1\VidlyCore.RazorAssemblyInfo.cs
+C:\Projects\Vidly (Core)\VidlyCore\obj\Debug\netcoreapp3.1\VidlyCore.TagHelpers.input.cache
+C:\Projects\Vidly (Core)\VidlyCore\obj\Debug\netcoreapp3.1\VidlyCore.TagHelpers.output.cache
+C:\Projects\Vidly (Core)\VidlyCore\obj\Debug\netcoreapp3.1\VidlyCore.RazorCoreGenerate.cache
+C:\Projects\Vidly (Core)\VidlyCore\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Projects\Vidly (Core)\VidlyCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Projects\Vidly (Core)\VidlyCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Projects\Vidly (Core)\VidlyCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Projects\Vidly (Core)\VidlyCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Projects\Vidly (Core)\VidlyCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Projects\Vidly (Core)\VidlyCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Projects\Vidly (Core)\VidlyCore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Projects\Vidly (Core)\VidlyCore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Projects\Vidly (Core)\VidlyCore\obj\Debug\netcoreapp3.1\VidlyCore.RazorTargetAssemblyInfo.cache
+C:\Projects\Vidly (Core)\VidlyCore\obj\Debug\netcoreapp3.1\VidlyCore.RazorTargetAssemblyInfo.cs
+C:\Projects\Vidly (Core)\VidlyCore\obj\Debug\netcoreapp3.1\VidlyCore.Views.pdb
+C:\Projects\Vidly (Core)\VidlyCore\obj\Debug\netcoreapp3.1\VidlyCore.csproj.CopyComplete
+C:\Projects\Vidly (Core)\VidlyCore\obj\Debug\netcoreapp3.1\staticwebassets\VidlyCore.StaticWebAssets.Manifest.cache
+C:\Projects\Vidly (Core)\VidlyCore\obj\Debug\netcoreapp3.1\staticwebassets\VidlyCore.StaticWebAssets.xml
+C:\Projects\Vidly (Core)\VidlyCore\obj\Debug\netcoreapp3.1\VidlyCore.dll
+C:\Projects\Vidly (Core)\VidlyCore\obj\Debug\netcoreapp3.1\VidlyCore.pdb
+C:\Projects\Vidly (Core)\VidlyCore\obj\Debug\netcoreapp3.1\VidlyCore.genruntimeconfig.cache
+C:\Projects\Vidly (Core)\VidlyCore\obj\Debug\netcoreapp3.1\Razor\Views\Customers\CustomerForm.cshtml.g.cs
+C:\Projects\Vidly (Core)\VidlyCore\obj\Debug\netcoreapp3.1\Razor\Views\Customers\Index.cshtml.g.cs
+C:\Projects\Vidly (Core)\VidlyCore\obj\Debug\netcoreapp3.1\Razor\Views\Movies\List.cshtml.g.cs
+C:\Projects\Vidly (Core)\VidlyCore\obj\Debug\netcoreapp3.1\Razor\Views\Movies\MovieForm.cshtml.g.cs
+C:\Projects\Vidly (Core)\VidlyCore\obj\Debug\netcoreapp3.1\Razor\Views\Movies\ReadOnlyList.cshtml.g.cs
+C:\Projects\Vidly (Core)\VidlyCore\obj\Debug\netcoreapp3.1\Razor\Views\Rentals\New.cshtml.g.cs
+C:\Projects\Vidly (Core)\VidlyCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_NavBar.cshtml.g.cs
+C:\Projects\VidlyCore\VidlyCore\obj\Debug\netcoreapp3.1\VidlyCore.csprojAssemblyReference.cache
+C:\Projects\VidlyCore\VidlyCore\obj\Debug\netcoreapp3.1\VidlyCore.AssemblyInfoInputs.cache
+C:\Projects\VidlyCore\VidlyCore\obj\Debug\netcoreapp3.1\VidlyCore.AssemblyInfo.cs
+C:\Projects\VidlyCore\VidlyCore\obj\Debug\netcoreapp3.1\VidlyCore.RazorAssemblyInfo.cache
+C:\Projects\VidlyCore\VidlyCore\obj\Debug\netcoreapp3.1\VidlyCore.RazorAssemblyInfo.cs
+C:\Projects\VidlyCore\VidlyCore\obj\Debug\netcoreapp3.1\VidlyCore.TagHelpers.input.cache
+C:\Projects\VidlyCore\VidlyCore\obj\Debug\netcoreapp3.1\VidlyCore.TagHelpers.output.cache
+C:\Projects\VidlyCore\VidlyCore\obj\Debug\netcoreapp3.1\VidlyCore.RazorCoreGenerate.cache
+C:\Projects\VidlyCore\VidlyCore\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Projects\VidlyCore\VidlyCore\obj\Debug\netcoreapp3.1\Razor\Views\Customers\CustomerForm.cshtml.g.cs
+C:\Projects\VidlyCore\VidlyCore\obj\Debug\netcoreapp3.1\Razor\Views\Customers\Index.cshtml.g.cs
+C:\Projects\VidlyCore\VidlyCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Projects\VidlyCore\VidlyCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Projects\VidlyCore\VidlyCore\obj\Debug\netcoreapp3.1\Razor\Views\Movies\List.cshtml.g.cs
+C:\Projects\VidlyCore\VidlyCore\obj\Debug\netcoreapp3.1\Razor\Views\Movies\MovieForm.cshtml.g.cs
+C:\Projects\VidlyCore\VidlyCore\obj\Debug\netcoreapp3.1\Razor\Views\Movies\ReadOnlyList.cshtml.g.cs
+C:\Projects\VidlyCore\VidlyCore\obj\Debug\netcoreapp3.1\Razor\Views\Rentals\New.cshtml.g.cs
+C:\Projects\VidlyCore\VidlyCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Projects\VidlyCore\VidlyCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Projects\VidlyCore\VidlyCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Projects\VidlyCore\VidlyCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_NavBar.cshtml.g.cs
+C:\Projects\VidlyCore\VidlyCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Projects\VidlyCore\VidlyCore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Projects\VidlyCore\VidlyCore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Projects\VidlyCore\VidlyCore\obj\Debug\netcoreapp3.1\VidlyCore.RazorTargetAssemblyInfo.cache
+C:\Projects\VidlyCore\VidlyCore\obj\Debug\netcoreapp3.1\VidlyCore.RazorTargetAssemblyInfo.cs
+C:\Projects\VidlyCore\VidlyCore\obj\Debug\netcoreapp3.1\VidlyCore.dll
+C:\Projects\VidlyCore\VidlyCore\obj\Debug\netcoreapp3.1\VidlyCore.pdb
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.json
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.local.json
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\VidlyCore.StaticWebAssets.xml
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\VidlyCore.exe
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\VidlyCore.deps.json
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\VidlyCore.runtimeconfig.json
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\VidlyCore.runtimeconfig.dev.json
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\VidlyCore.dll
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\VidlyCore.pdb
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\VidlyCore.Views.dll
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\VidlyCore.Views.pdb
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\VidlyCore.Entities.dll
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\VidlyCore.Services.dll
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\VidlyCore.Entities.pdb
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\VidlyCore.Services.pdb
+C:\Projects\VidlyCore\VidlyCore\obj\Debug\netcoreapp3.1\VidlyCore.Views.pdb
+C:\Projects\VidlyCore\VidlyCore\obj\Debug\netcoreapp3.1\VidlyCore.csproj.CopyComplete
+C:\Projects\VidlyCore\VidlyCore\obj\Debug\netcoreapp3.1\staticwebassets\VidlyCore.StaticWebAssets.Manifest.cache
+C:\Projects\VidlyCore\VidlyCore\obj\Debug\netcoreapp3.1\staticwebassets\VidlyCore.StaticWebAssets.xml
+C:\Projects\VidlyCore\VidlyCore\obj\Debug\netcoreapp3.1\VidlyCore.genruntimeconfig.cache
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\VidlyCore\VidlyCore\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Projects\VidlyCore\VidlyCore\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Projects\VidlyCore\VidlyCore\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Projects\VidlyCore\VidlyCore\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Projects\VidlyCore\VidlyCore\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\Bloodhound.dll
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\Speedy.dll
+C:\Projects\VidlyCore\VidlyCore\bin\Debug\netcoreapp3.1\DataTables.AspNet.Core.dll
+C:\Projects\VidlyCore\VidlyCore\obj\Debug\netcoreapp3.1\VidlyCore.csproj.CoreCompileInputs.cache
+C:\Projects\VidlyCore\VidlyCore\obj\Debug\netcoreapp3.1\VidlyCore.MvcApplicationPartsAssemblyInfo.cs
+C:\Projects\VidlyCore\VidlyCore\obj\Debug\netcoreapp3.1\VidlyCore.MvcApplicationPartsAssemblyInfo.cache

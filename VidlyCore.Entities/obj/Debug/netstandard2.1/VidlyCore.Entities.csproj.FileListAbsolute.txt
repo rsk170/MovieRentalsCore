@@ -1,0 +1,18 @@
+C:\Projects\Vidly (Core)\VidlyCore.Entities\bin\Debug\netstandard2.1\VidlyCore.Entities.deps.json
+C:\Projects\Vidly (Core)\VidlyCore.Entities\bin\Debug\netstandard2.1\VidlyCore.Entities.dll
+C:\Projects\Vidly (Core)\VidlyCore.Entities\obj\Debug\netstandard2.1\VidlyCore.Entities.csprojAssemblyReference.cache
+C:\Projects\Vidly (Core)\VidlyCore.Entities\obj\Debug\netstandard2.1\VidlyCore.Entities.AssemblyInfoInputs.cache
+C:\Projects\Vidly (Core)\VidlyCore.Entities\obj\Debug\netstandard2.1\VidlyCore.Entities.AssemblyInfo.cs
+C:\Projects\Vidly (Core)\VidlyCore.Entities\bin\Debug\netstandard2.1\VidlyCore.Entities.pdb
+C:\Projects\Vidly (Core)\VidlyCore.Entities\obj\Debug\netstandard2.1\VidlyCore.Entities.csproj.CoreCompileInputs.cache
+C:\Projects\Vidly (Core)\VidlyCore.Entities\obj\Debug\netstandard2.1\VidlyCore.Entities.dll
+C:\Projects\Vidly (Core)\VidlyCore.Entities\obj\Debug\netstandard2.1\VidlyCore.Entities.pdb
+C:\Projects\VidlyCore\VidlyCore.Entities\bin\Debug\netstandard2.1\VidlyCore.Entities.deps.json
+C:\Projects\VidlyCore\VidlyCore.Entities\bin\Debug\netstandard2.1\VidlyCore.Entities.dll
+C:\Projects\VidlyCore\VidlyCore.Entities\bin\Debug\netstandard2.1\VidlyCore.Entities.pdb
+C:\Projects\VidlyCore\VidlyCore.Entities\obj\Debug\netstandard2.1\VidlyCore.Entities.csprojAssemblyReference.cache
+C:\Projects\VidlyCore\VidlyCore.Entities\obj\Debug\netstandard2.1\VidlyCore.Entities.AssemblyInfoInputs.cache
+C:\Projects\VidlyCore\VidlyCore.Entities\obj\Debug\netstandard2.1\VidlyCore.Entities.AssemblyInfo.cs
+C:\Projects\VidlyCore\VidlyCore.Entities\obj\Debug\netstandard2.1\VidlyCore.Entities.dll
+C:\Projects\VidlyCore\VidlyCore.Entities\obj\Debug\netstandard2.1\VidlyCore.Entities.pdb
+C:\Projects\VidlyCore\VidlyCore.Entities\obj\Debug\netstandard2.1\VidlyCore.Entities.csproj.CoreCompileInputs.cache
